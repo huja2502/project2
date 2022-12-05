@@ -1,0 +1,9 @@
+.hero{
+    background-image: url(/project2/images/about.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.min-vh-75 {
+    min-height: 85vh !important;
+}

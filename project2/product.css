@@ -1,0 +1,9 @@
+.hero{
+    background-image: url(/project2/images/white.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.min-vh-85 {
+    min-height: 85vh !important;
+}

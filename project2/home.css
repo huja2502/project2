@@ -1,0 +1,42 @@
+.hero{
+    background-image: url(/project2/images/apple.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.min-vh-75 {
+    min-height: 60vh !important;
+}
+
+.max-width{
+    max-width: 1200px;
+}
+
+.w-65 {
+    width: 65%;
+}
+
+
+/* 
+.img {
+    display: block;
+    max-width: 620px;
+    max-height: 600px;
+  } */
+
+/* @media (min-width: 1200px) {
+    .min-300 {
+        width: 300px;
+    }
+}
+
+.min-form {
+    min-width: 255px;
+} */
+/* 
+
+.img {
+    height: 500px;
+    width: 500px;
+    background-color: powderblue;
+  } */
